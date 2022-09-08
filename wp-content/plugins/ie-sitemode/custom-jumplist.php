@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Entradas recientes");window.external.msSiteModeAddJumpListItem("\u00a1Hola mundo!","https://iprotect900218380.wordpress.com/2022/04/21/hello-world/","https://iprotect900218380.files.wordpress.com/2022/09/logo.jpg?w=16");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
